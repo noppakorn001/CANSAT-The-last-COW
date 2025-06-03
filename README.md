@@ -1,4 +1,4 @@
-# 🚀 CANSAT - The Last COW
+# 🚀 CANSAT - The Last COW 🐄
 
 ## 🛰️ Thailand CanSat-Rocket Competition
 
