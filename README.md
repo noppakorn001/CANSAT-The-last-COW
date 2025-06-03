@@ -33,3 +33,18 @@ Please note that the code still requires significant improvement, especially in 
 <p align="center">
   <img src="https://github.com/noppakorn001/CANSAT-The-last-COW/blob/main/image/overview.png?raw=true" alt="Project Overview" width="1000"/>
 </p>
+
+---
+
+## 🖥️ Ground Station Features
+
+- Read data from multiple Serial Ports simultaneously  
+- Set baud rate  
+- Save data to `.csv` file  
+- Plot real-time graphs (requires proper data formatting)  
+- Real-time data display interface  
+- Automatically adds time stamps in milliseconds  
+
+<p align="center">
+  <img src="https://github.com/noppakorn001/CANSAT-The-last-COW/blob/main/Ground-Station/Interface.png?raw=true" alt="Ground Station Interface" width="1000"/>
+</p>
