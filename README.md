@@ -21,8 +21,15 @@
 
 > ⚙️ _Most of the code has been modified for performance optimization._
 
+---
+
+## 📘 Project Note
+
+_In this GitHub repository, I share the code that I have learned and developed over the course of one month.  
+Please note that the code still requires significant improvement, especially in terms of logic and a deeper understanding of sensor behavior._
+
+---
+
 <p align="center">
   <img src="https://github.com/noppakorn001/CANSAT-The-last-COW/blob/main/image/overview.png?raw=true" alt="Project Overview" width="1000"/>
 </p>
-\
-
