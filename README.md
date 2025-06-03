@@ -1,6 +1,6 @@
-# 🚀 CANSAT - The Last COW
+# CANSAT - The Last COW 🐄
 
-## 🛰️ Thailand CanSat-Rocket Competition
+## 🛰️ Thailand CanSat-Rocket Competition 🚀
 
 - **2024** → _COW is Back_ 🏆 **Rocket Mission Award**  
 - **2025** → _The Last COW_ 🪵 **Consolation Award**
