@@ -22,5 +22,7 @@
 > ⚙️ _Most of the code has been modified for performance optimization._
 
 <p align="center">
-  <img src="https://github.com/noppakorn001/CANSAT-The-last-COW/blob/main/image/overview.png?raw=true" alt="Project Overview" width="600"/>
+  <img src="https://github.com/noppakorn001/CANSAT-The-last-COW/blob/main/image/cansat-rocket.png?raw=true" alt="Project Overview" width="600"/>
 </p>
+\
+
